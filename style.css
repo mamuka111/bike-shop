@@ -1,0 +1,150 @@
+.img1{
+    margin: 0 auto;
+    background-image: url(./WhatsApp\ Image\ 2023-01-27\ at\ 11.47.52.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+width: 1920px;
+height: 1080px;
+}
+.div1{
+    position: relative;
+}
+.img2{
+    position: absolute;
+    margin-left: 64px;
+    margin-top: 46px;
+}
+.img3{
+    position: absolute;
+    margin-left: 742px;
+    margin-top: 91px;
+}
+.img4{
+    position: absolute;
+  margin-left: 742px;
+  margin-top: 54px;
+}
+.span1{
+    position: absolute;
+    width: 51px;
+height: 21px;
+left: 875px;
+font-size: 27px;
+font-weight: 500;
+line-height: 27px;
+top: 54px;
+color: #fff;
+
+}
+.span2{
+    position: absolute;
+    width: 51px;
+height: 21px;
+font-size: 27px;
+font-weight: 500;
+line-height: 27px;
+top: 54px;
+color: #fff;
+margin-left: 981px;
+}
+.span3{
+   position: absolute;
+    width: 51px; 
+height: 21px;
+font-size: 27px;
+font-weight: 500;
+line-height: 27px;
+top: 54px;
+color: #fff;
+margin-left:1166px;
+}
+.span4{
+    position: absolute;
+    width: 51px; 
+height: 21px;
+font-size: 27px;
+font-weight: 500;
+line-height: 27px;
+top: 54px;
+color: #fff;
+margin-left:1276px;
+}
+.span5{
+    position: absolute;
+    width: 51px; 
+height: 21px;
+font-size: 27px;
+font-weight: 500;
+line-height: 27px;
+top: 54px;
+color: #fff;
+margin-left:1386px;
+
+}
+.img5{
+    position: absolute;
+width: 138px;
+height: 56px;
+
+filter: drop-shadow(0px 3px 3px rgba(0,0,0,0.16 ));
+margin-left: 1534px;
+margin-top: 40px;
+}
+.span6{
+    position: absolute;
+    font-family: "google sans";
+font-size: 27px;
+font-weight: 500;
+line-height: 27px;
+font-style: normal;
+text-align: center;
+color: #ffffff;
+margin-left: 1569px;
+margin-top: 51px;
+}
+.img7{
+    position: absolute;
+width: 63.6px;
+height: 50px;
+margin-left: 1716px;
+margin-top: 40px;
+
+
+}
+article{
+    position: absolute;
+}
+.img8{
+    margin-top: 390px;
+    margin-left: 278px;
+    display: inline-block;
+    position: absolute;
+}
+.img9{
+    position: absolute;
+display: inline-block;
+   margin-top: 673px;
+   margin-right: 255px;
+   margin-left: 273px;
+   background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.img10{
+    position: absolute;
+    margin-top: 699px;
+    margin-left: 362px;
+}
+.img11{
+    position: absolute;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 674px;
+    margin-left: 614px;
+}
+.img12{
+    position: absolute;
+    margin-left: 686px;
+    margin-top: 700px;
+}
